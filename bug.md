@@ -10,3 +10,4 @@
 - ```git pull```은 remote에서 데이터를 가져오면서 local에 있는 데이터와 merge를 하는 명령어입니다.<br>
   local과 remote를 동기화할 때 사용하고 merge를 하기때문에 HEAD 포인터도 가장 최신의 commit을 가리킵니다!. <br>
 
+```bug Fix END```
